@@ -1,0 +1,31 @@
+{
+  "name": "Deep_Drive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayush5588/Deep_Drive.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayush5588/Deep_Drive/issues"
+  },
+  "homepage": "https://github.com/ayush5588/Deep_Drive#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "csv": "^5.3.1",
+    "debug": "^4.1.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-generator": "^4.16.1",
+    "http-errors": "^1.7.3",
+    "morgan": "^1.9.1",
+    "nodemon": "^2.0.2"
+  }
+}
