@@ -20,13 +20,18 @@
   "dependencies": {
     "cookie-parser": "^1.4.4",
     "csv": "^5.3.1",
+    "csv-writer": "^1.6.0",
     "debug": "^4.1.1",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "express-generator": "^4.16.1",
+    "fast-csv": "^4.1.1",
     "http-errors": "^1.7.3",
     "morgan": "^1.9.1",
     "node-cron": "^2.0.3",
-    "nodemon": "^2.0.2"
+    "nodemon": "^2.0.2",
+    "xml-js": "^1.6.11",
+    "xml-to-json-stream": "^1.1.0",
+    "xml2js": "^0.4.23"
   }
 }
