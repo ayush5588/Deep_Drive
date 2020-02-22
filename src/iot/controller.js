@@ -1,7 +1,9 @@
 const express = require('express');
 
-
 exports.get_data = (req,res)=>{
-    const data = req.body.data;
+    const beh = req.body;
+    console.log(beh);
+    res.send('Data recieved');
 
 };
+
